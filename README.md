@@ -76,6 +76,10 @@ A SwiftUI-based iOS application that allows users to take shelf photos in stores
 
 ---
 
+## 📸 Demo Video
+https://youtube.com/shorts/plUecvDUxYY
+
+---
 
 ## ✨ Future Enhancements
 
